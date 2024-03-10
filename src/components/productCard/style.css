@@ -1,0 +1,10 @@
+.ProductCard {
+  border: 1px solid red;
+  padding: 10px;
+  text-align: center;
+  margin: 20px;
+  color: red;
+  width: 200px;
+  height: 100px;
+  background-color: white;
+}
